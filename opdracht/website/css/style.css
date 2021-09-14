@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(143, 143, 143);
 }
 
 div h1{
@@ -12,7 +12,7 @@ div h1{
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 10px 10px 20px black;
+    box-shadow: 10px 10px 20px rgb(0, 0, 0);
 }
 
 .posterimg{
@@ -21,13 +21,13 @@ div h1{
 }
 
 #poster1{
-    background-color: blue;
+    background-color: rgb(112, 0, 0);
 }
 
 #poster2{
-    background-color: blue;
+    background-color: rgb(112, 0, 0);
 }
 
 #poster3{
-    background-color: blue;
+    background-color: rgb(112, 0, 0);
 }
